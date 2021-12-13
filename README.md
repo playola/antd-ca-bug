@@ -24,6 +24,6 @@ If you set the locale as "es_ES" you will see that it translate it properly.
 
 ## Expected translations
 
-Default: "(optional)"
-Spanish (es_ES): "(opcional)"
-Catalan (ca_ES): "(opcional)" <-- missing
+* Default: "(optional)"
+* Spanish (es_ES): "(opcional)"
+* Catalan (ca_ES): "(opcional)" <-- missing
